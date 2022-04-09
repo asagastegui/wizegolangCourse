@@ -1,0 +1,23 @@
+{
+  "name": "wizegolangcourse",
+  "version": "1.0.0",
+  "description": "REST API Technicall Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asagastegui/wizegolangCourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asagastegui/wizegolangCourse/issues"
+  },
+  "homepage": "https://github.com/asagastegui/wizegolangCourse#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3"
+  }
+}
