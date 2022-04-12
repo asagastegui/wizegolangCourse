@@ -4,7 +4,7 @@
   "description": "REST API Technicall Challenge",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,8 @@
   "homepage": "https://github.com/asagastegui/wizegolangCourse#readme",
   "dependencies": {
     "axios": "^0.26.1",
-    "express": "^4.17.3"
+    "dotenv": "^16.0.0",
+    "express": "4.17.3",
+    "mocha": "^9.2.2"
   }
 }
